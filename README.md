@@ -3,7 +3,9 @@
 VirusTotalApi projesine hoşgeldiniz.
 
 Projenin iki farklı sürümü mevcuttur. 
+
 -Online (Virüs Total Api)
+
 -Offline (Hash TXT)
 
 Online sürümde virüs total üzerinde üyelik açılıp alınan keyi gerekli bölüme girdikten sonra taramalarınızı bu script sayesinde hızlı bir şekilde yapabilir sonuçlarını görebilirsiniz.
